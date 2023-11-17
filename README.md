@@ -1,1 +1,1 @@
-# spotifyproject
+# Spotify Data Analysis Project
